@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="my_jar">
+    <CLASSES>
+      <root url="jar://E:/My_Jar/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://E:/My_Jar/servlet-api.jar!/" />
+      <root url="jar://E:/My_Jar/log4j-1.2.9.jar!/" />
+      <root url="jar://E:/My_Jar/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://E:/My_Jar/commons-logging-1.2.jar!/" />
+      <root url="jar://E:/My_Jar/jdo2-api-2.3-eb.jar!/" />
+      <root url="jar://E:/My_Jar/ehcache-1.2.3.jar!/" />
+      <root url="jar://E:/My_Jar/mysql-connector-java-5.1.13-bin.jar!/" />
+      <root url="jar://E:/My_Jar/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://E:/My_Jar/dom4j-1.6.1.jar!/" />
+      <root url="jar://E:/My_Jar/json_simple-1.1.jar!/" />
+      <root url="jar://E:/My_Jar/ojdbc14.jar!/" />
+      <root url="jar://E:/My_Jar/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://E:/My_Jar/hibernate/hibernate-3.2.5.ga.jar!/" />
+      <root url="jar://E:/My_Jar/hibernate/hibernate-commons-annotations-4.0.5.Final.jar!/" />
+      <root url="jar://E:/My_Jar/hibernate/hibernate-core-4.3.10.Final.jar!/" />
+      <root url="jar://E:/My_Jar/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://E:/My_Jar/hibernate/hibernate-search-orm-5.0.0.Alpha6.jar!/" />
+      <root url="jar://E:/My_Jar/hibernate/hibernate-validator-5.1.1.Final.jar!/" />
+      <root url="jar://E:/My_Jar/aopalliance-1.0.jar!/" />
+      <root url="jar://E:/My_Jar/perf4j-0.9.16.jar!/" />
+      <root url="jar://E:/My_Jar/aspectjrt-1.6.12.jar!/" />
+      <root url="jar://E:/My_Jar/aspectjweaver-1.8.2.jar!/" />
+      <root url="jar://E:/My_Jar/commons-collections-3.2.1.jar!/" />
+      <root url="jar://E:/My_Jar/commons-fileupload-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/c3p0-0.9.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
